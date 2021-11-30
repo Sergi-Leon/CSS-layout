@@ -33,5 +33,10 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-    
+    .column-3 {
+      width: 100%;
+    }
+    .column-4 {
+      width: 50%;
+    }
   }
